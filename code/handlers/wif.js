@@ -1,6 +1,6 @@
 import * as BasicHandler from 'basic_handler';
 
-// Worker Instructions Format handler
+// Worker Instructions Format(WIF) handler
 export default function() {
 
 	const FORMAT_REGEXP = /a/;
