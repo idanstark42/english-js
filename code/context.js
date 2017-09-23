@@ -1,5 +1,5 @@
-import * as WIFHandler from 'handlers/wif'
-import * as ODFHandler from 'handlers/odf'
+import * as WIFHandler from 'handlers/wif';
+import * as ODFHandler from 'handlers/odf';
 
 export default function() {
 
